@@ -1,0 +1,28 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Sound	     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+connected    KEYWORD2
+disconnected KEYWORD2
+pressed	     KEYWORD2
+surprised    KEYWORD2
+happy	     KEYWORD2
+sad	     KEYWORD2
+confused     KEYWORD2
+fart	     KEYWORD2
+forward	     KEYWORD2
+backward     KEYWORD2
+left	     KEYWORD2
+right	     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
+Buzzer       LITERAL1

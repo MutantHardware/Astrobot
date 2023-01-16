@@ -1,0 +1,25 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Button	     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Forward KEYWORD2
+Right KEYWORD2
+Left KEYWORD2
+Play KEYWORD2
+Function KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ForwardButtonPin LITERAL1
+RightButtonPin LITERAL1
+LeftButtonPin LITERAL1
+PlayButtonPin LITERAL1
+FunctionButtonPin LITERAL1

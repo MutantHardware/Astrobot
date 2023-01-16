@@ -1,0 +1,33 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Sensor      KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getTemp      KEYWORD2
+getAccX      KEYWORD2
+getAccY      KEYWORD2
+getAccZ      KEYWORD2
+getGyroX     KEYWORD2
+getGyroY     KEYWORD2
+getGyroZ     KEYWORD2
+getAccAngleX KEYWORD2
+getAccAngleY KEYWORD2
+getAngleX    KEYWORD2
+getAngleY    KEYWORD2
+getAngleZ    KEYWORD2
+Hall         KEYWORD2
+Touch        KEYWORD2
+Resistance   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TouchPin   LITERAL1 
+ModPin     LITERAL1
+R_board    LITERAL1
